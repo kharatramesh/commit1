@@ -1,10 +1,7 @@
 I am in b1 branch 
 123
-<<<<<<< HEAD
 456
 789
-
-=======
 234
 456
->>>>>>> master
+updating branch2
