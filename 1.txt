@@ -6,3 +6,4 @@ I am in b1 branch
 456
 updating branch2
 branch2
+branch3
